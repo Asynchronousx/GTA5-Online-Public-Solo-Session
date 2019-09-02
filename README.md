@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/YddMX3Z/gta.jpg" width="300"><br>
 
-#### GTA V:Online Public Solo Session
-Simple at it seems, this small and simple tool <b>let you play GTA Online alone into a generic public sessions.</b><br>
+#### Introduction
+Simple at it seems, this small, minimal and simple tool <b>let you play GTA Online alone into a generic public sessions.</b><br>
 It simple blocks some ports on which the Rockstar Server rely on, letting you enjoy your activities alone into a public room.<br>
 
 #### Usage
