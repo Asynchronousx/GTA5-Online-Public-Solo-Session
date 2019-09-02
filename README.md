@@ -7,4 +7,6 @@ It simple blocks some ports on which the Rockstar Server rely on, letting you en
 #### Usage
 Things never been simpler:
 * Click <b>Release</b>
-* Scroll down and download <b>GTA5PublicSoloSession.exe</b>
+* Scroll down and download <b>GTA5PublicSoloSession.exe</b> from the release page
+* Open your download folder, right click and "Run as Administrator". This is necessary because to block the rockstar ports it needs the administrator rights.
+* Press *Enable* and run GTA Online to join a public solo session. If you forgot to press Enable before running GTA:Online, just enter the public lobby, Alt+Tab and Enable the solo session from the application, then find a new session. Boom, you're alone!<br>
