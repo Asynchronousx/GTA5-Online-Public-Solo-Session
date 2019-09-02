@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/stand-by.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("pssv.ico")]
 
 

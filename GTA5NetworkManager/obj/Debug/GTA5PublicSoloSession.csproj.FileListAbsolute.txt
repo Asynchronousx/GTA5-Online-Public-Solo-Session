@@ -1,0 +1,17 @@
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession.csprojAssemblyReference.cache
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\Interop.NetFwTypeLib.dll
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession.csproj.ResolveComReference.cache
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\MainWindow.g.cs
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\App.g.cs
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\MainWindow.baml
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession.csproj.GenerateResource.cache
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession.csproj.CoreCompileInputs.cache
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\bin\Debug\GTA5PublicSoloSession.exe.config
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\bin\Debug\GTA5PublicSoloSession.exe
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\bin\Debug\GTA5PublicSoloSession.pdb
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession_MarkupCompile.cache
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession_MarkupCompile.lref
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession.g.resources
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession.exe
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession.pdb
+C:\Users\Asynchronousx\source\repos\GTA5NetworkManager\GTA5NetworkManager\obj\Debug\GTA5PublicSoloSession.Properties.Resources.resources
