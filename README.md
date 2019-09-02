@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/Asynchronousx/GTA5-Online-Public-Solo-Session.png?branch=master)](https://github.com/Asynchronousx/GTA5-Online-Public-Solo-Session)
+
 <img src="https://i.ibb.co/YddMX3Z/gta.jpg" width="250"><img src="https://i.imgur.com/EiFwb9B.png" width="250"><img src="https://i.imgur.com/Yg8Jtoo.png" width="250"><br>
 
 #### Introduction
