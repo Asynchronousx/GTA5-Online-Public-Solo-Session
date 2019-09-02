@@ -17,5 +17,9 @@ Alternatively, if you want to build it from scratch:
 * Open the folder where <b>GTA5PublicSoloSession.sln</b> is located and open it as a project solution
 * Run the debug/release, and use the application.
 
+
+#### Security
+The .exe file in the release is encrypted with SHA256RSA and with auth token. Obviously, neither the manifesto nor the key are into this repository. Feel free to scan the file aswell.
+
 #### Will I get banned for using this?
 <b>Absolutely NO!</b> Firewall blockage and rules are <b>EXTERNAL</b> from any GTA5 files.
