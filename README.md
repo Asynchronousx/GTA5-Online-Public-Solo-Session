@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/YddMX3Z/gta.jpg" width="200"><img src="https://i.imgur.com/EiFwb9B.png" width="200"><img src="https://i.imgur.com/Yg8Jtoo.png" width="200"><br>
+<img src="https://i.ibb.co/YddMX3Z/gta.jpg" width="250"><img src="https://i.imgur.com/EiFwb9B.png" width="250"><img src="https://i.imgur.com/Yg8Jtoo.png" width="250"><br>
 
 #### Introduction
 Simple at it seems, this small, minimal and simple tool <b>let you play GTA Online alone into a generic public sessions.</b><br>
